@@ -1,0 +1,26 @@
+APK XP LCD Factory
+
+Errores Pendientes
+
+- [ ] S20 ultra
+- [ ] Orientación de pantalla
+- [ ] Arreglar precio moto g30
+- [x] Se arreglo el control de versiones
+
+Versiones
+
+1.0 / 10-05-22 / 
+* Se genero la primera APK integrando todos los modelos menos samsung
+1.1
+* Se agregaron dispositivos samsung 
+* Se cambio el nombre al modelo ”Motorola EDGE original”  a “Motorola EDGE”
+* Se cambio nombre al modelo “ZTE L1210” por “ZTE L210”
+1.2
+* Se agrego en búsquedas SM, HW y IPH para buscar modelos 
+* Se cambio el nombre al modelo “Motorola Z2 PLAYY” por “Motorola Z2 PLAY”
+* Se cambio lista de precios
+1.3
+* Se agrego en búsquedas los modelos V10 VITA, A10 y A10 W/F
+* Se puede buscar el “A6 Plus” como “A6+”
+* Se corrigió error de la búsqueda del XS MAX
+* Se puso como Portrait la orientación de pantalla
